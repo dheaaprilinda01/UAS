@@ -1,4 +1,4 @@
-ini cuman 1 sehari
+ini API hari ini
 http://api.weatherapi.com/v1/forecast.json?key=30b681ca44f646db86b140433251512&q=banjarmasin&days=14&aqi=no&alerts=no
 
 ini forecast 14hari
